@@ -20,7 +20,7 @@ This SDK provides a Go interface for the toyyibPay API, allowing developers to e
 To install the toyyibPay SDK, use `go get`:
 
 ```bash
-go get github.com/yourusername/toyyibpay-sdk
+go get github.com/iserifith/toyyibpay-sdk
 ```
 
 Ensure you have Go modules enabled.
